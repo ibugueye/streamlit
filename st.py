@@ -159,3 +159,6 @@ st.plotly_chart(fig)
 # Affichage du tableau des données
 st.write("Tableau des Ratios Prudentiels")
 st.dataframe(df_ratios)
+
+
+st.write("done By Ibrahima Gueye")
